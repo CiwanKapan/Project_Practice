@@ -1,3 +1,2 @@
 # Project_Practice
-Test Repository
-For practice!
+Test Repository For practice!
